@@ -1,4 +1,4 @@
-# hhv
+# Vuejs Project for fabric processing business which will track their orders and also manage their dealers.
 
 ## Project setup
 ```
